@@ -26,3 +26,26 @@ Identificación de valores nulos.
 Detección de registros duplicados.
 Limpieza de datos.
 F2_Exploración.ipynb
+Dependencias
+Las dependencias del proyecto se encuentran registradas en:
+
+requirements.txt
+
+Principales librerías utilizadas:
+
+pandas
+numpy
+matplotlib
+jupyter
+Instalación
+pip install -r requirements.txt
+Ejecución
+Ejecutar los notebooks en el siguiente orden:
+
+F1_Definicion.ipynb
+F2_Exploracion.ipynb
+Reproducibilidad
+El proyecto fue desarrollado utilizando Python y Jupyter Notebook. Todas las dependencias necesarias se encuentran registradas en el archivo requirements.txt, permitiendo la reproducción del análisis en otros entornos.
+
+Control de Versiones
+El proyecto utiliza Git y GitHub para gestionar el desarrollo, mantener trazabilidad de los cambios realizados y registrar el avance de cada fase mediante commits descriptivos.
